@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1591539292 source:c:\users\beban\desktop\rgproject\rgproject\main.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	"game.h"
+	<stdlib.h>
+
+1590566882 c:\users\beban\desktop\rgproject\rgproject\game.h
+
+1591539513 source:c:\users\beban\desktop\rgproject\rgproject\game.cpp
+	<GL/glut.h>
+	<GL/glut.h>
+	<ctime>
+	"game.h"
+
+1591539513 source:c:\users\beban\desktop\viser\grafika\rgproject\rgproject\game.cpp
+	<GL/glut.h>
+	<GL/glut.h>
+	<ctime>
+	"game.h"
+
+1590566882 c:\users\beban\desktop\viser\grafika\rgproject\rgproject\game.h
+
+1593090370 source:c:\users\beban\desktop\viser\grafika\rgproject\rgproject\main.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	"game.h"
+	<stdlib.h>
+
+1591535913 source:d:\viser\i godina\grafika\rgproject\rgproject\game.cpp
+	<GL/glut.h>
+	<GL/glut.h>
+	<ctime>
+	"game.h"
+
+1590563282 d:\viser\i godina\grafika\rgproject\rgproject\game.h
+
+1593086770 source:d:\viser\i godina\grafika\rgproject\rgproject\main.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	"game.h"
+	<stdlib.h>
+
